@@ -15,6 +15,7 @@ export const COMPANY = {
   whatsapp: 'https://wa.me/34699008071',
   email: 'admin@coconutluxuryflats.com',
   instagram: 'https://instagram.com/coconut_luxury_flats',
+  register: 'https://majestic12crm.com/registro/coconut-luxury-flats',
 } as const
 
 export const LOGO_URL = 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-JPrsEK25chenttihUSDYwIVtofYOqq.png'
